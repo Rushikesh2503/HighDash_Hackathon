@@ -55,14 +55,15 @@ Find our project presentation [here](https://www.linkedin.com/posts/rushikeshbam
 
 ## Screenshots
 
-<img src="Screenshots/1.jpeg" width="300">
-<img src="Screenshots/2.jpeg" width="300">
-<img src="Screenshots/3.jpeg" width="300">
-<img src="Screenshots/4.jpeg" width="300">
-<img src="Screenshots/5.jpeg" width="300">
-<img src="Screenshots/6.jpeg" width="300">
-<img src="Screenshots/7.jpeg" width="300">
-<img src="Screenshots/8.jpeg" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/login_wvdblt.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/signup_qslppj.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081341/homepage_fkn15y.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/hostingpage_qpzyvr.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/eventpage_fpr9ur.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/payement_page_aw5bna.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081339/bookedshows_ere5df.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081339/countdown_ejhppo.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/comments_g7iugl.png" width="300">
 
 ## Our Team
 
