@@ -55,20 +55,20 @@ Find our project presentation [here](https://www.linkedin.com/posts/rushikeshbam
 
 ## Screenshots
 
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/login_wvdblt.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/signup_qslppj.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081341/homepage_fkn15y.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/hostingpage_qpzyvr.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/eventpage_fpr9ur.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/payement_page_aw5bna.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081339/bookedshows_ere5df.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081339/countdown_ejhppo.png" width="300">
-<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/comments_g7iugl.png" width="300">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/login_wvdblt.png">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/signup_qslppj.png">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081341/homepage_fkn15y.png">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/hostingpage_qpzyvr.png" >
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/eventpage_fpr9ur.png">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/payement_page_aw5bna.png">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081339/bookedshows_ere5df.png" >
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081339/countdown_ejhppo.png">
+<img src="https://res.cloudinary.com/rsbrsb/image/upload/v1635081340/comments_g7iugl.png" >
 
 ## Our Team
 
-* Rushikesh Bambadkar
-* Mahesh Gupta
-* Akshay Kumar
-* Deependra Negi
+* [@Rushikesh Bambadkar](https://github.com/Rushikesh2503)
+* [@Mahesh Gupta](https://github.com/maheshguptha49)
+* [@Akshaykumar Purad](https://github.com/Akshaykumar24)
+* [@Deependra Negi](https://github.com/Deependra-Negi)
 
