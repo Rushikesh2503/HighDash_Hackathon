@@ -40,7 +40,7 @@ We are team HighDash and we’ve developed a product named Streamline. As we kno
 
 ## Setup
 
-- Download the Zip or clone the repository
+- Download the Zip  or clone the repository
 ``` bash
 git clone https://github.com/Rushikesh2503/HighDash_Hackathon.git
 ```
